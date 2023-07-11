@@ -60,7 +60,7 @@ body {
 
 /* main style */
 
-main{
+main {
     width: 1800px;
     height: 4670px;
     background: #FFF;
@@ -80,4 +80,77 @@ main{
     font-size: 18px;
     font-weight: 400;
     margin-top: 24px;
+}
+
+.first-1 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+
+}
+
+.first-2 {
+    background: rgba(39, 39, 39, 0.05);
+    width: 464px;
+    height: 538px;
+    border-radius: 8px;
+    border-radius: 300px 300px 0px 0px;
+    margin-top: 48px;
+    margin-left: 110px;
+    text-align: center;
+    text-decoration: underline;
+
+    color: #272727;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.a-1 {
+    margin-top: 110px;
+    margin-right: 78px;
+    margin-left: 78px;
+}
+
+.first-3 {
+    width: 464px;
+    height: 538px;
+    border-radius: 8px;
+    background: rgba(5, 151, 160, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    margin-top: 48px;
+    text-align: center;
+    text-decoration: underline;
+
+    color: #272727;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.a-2 {
+    margin-top: 117px;
+    margin-right: 46px;
+    margin-bottom: 50px;
+    margin-left: 46px;
+}
+
+.first-4 {
+    width: 464px;
+    height: 538px;
+    border-radius: 8px;
+    background: rgba(71, 125, 17, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    margin-top: 48px;
+    text-align: center;
+    text-decoration: underline;
+
+    color: #272727;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+
+.a-3 {
+    margin-top: 67px;
+    margin-right: 75px;
+    margin-bottom: 0px;
+    margin-left: 75px;
 }
