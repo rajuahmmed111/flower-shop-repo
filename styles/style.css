@@ -39,6 +39,7 @@ header {
     display: inline-flex;
     padding: 20px 43px;
     gap: 10px;
+    margin-left: 300px;
 
     border-radius: 8px;
     background: #E55473;
@@ -95,7 +96,7 @@ main {
     border-radius: 8px;
     border-radius: 300px 300px 0px 0px;
     margin-top: 48px;
-    margin-left: 110px;
+    margin-left: 170px;
     text-align: center;
     text-decoration: underline;
 
@@ -117,6 +118,7 @@ main {
     background: rgba(5, 151, 160, 0.15);
     border-radius: 300px 300px 0px 0px;
     margin-top: 48px;
+
     text-align: center;
     text-decoration: underline;
 
@@ -139,6 +141,7 @@ main {
     background: rgba(71, 125, 17, 0.15);
     border-radius: 300px 300px 0px 0px;
     margin-top: 48px;
+    margin-right: 180px;
     text-align: center;
     text-decoration: underline;
 
@@ -153,4 +156,113 @@ main {
     margin-right: 75px;
     margin-bottom: 0px;
     margin-left: 75px;
+}
+
+/* section 2 style */
+.section-2-a {
+    display: flex;
+    width: 1440px;
+    height: 320px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 128px 170px;
+}
+
+.section-2-b {
+    width: 88px;
+    height: 88px;
+    margin-left: 317px;
+    margin-top: 86px;
+    margin-bottom: 128px;
+}
+
+.section-2-c {
+    margin-left: 300px;
+    margin-top: 86px;
+    margin-bottom: 128px;
+}
+
+.section-2-d {
+    margin-left: 230px;
+    margin-top: 86px;
+    margin-bottom: 128px;
+}
+
+/* section 3 */
+
+.section-3 {
+    display: flex;
+    width: 1800px;
+    height: 620px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+
+}
+
+.section-3-tittle {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-left: 300px;
+    margin-top: 200px;
+    margin-bottom: 20px;
+
+}
+
+.section-3-des {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 300px;
+    margin-top: 0px;
+    margin-bottom: 35px;
+}
+
+.span-tittle {
+    color: #E55473;
+}
+
+.section-3-f {
+    width: 318px;
+    height: 420px;
+    margin: 100px 300px;
+}
+
+/* section 4 style */
+
+.section-4-tittle {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 128px;
+   
+}
+
+.section-4-des {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 25px;
+}
+
+.pic-1 {
+    margin-left: 200px;
+    margin-top: 45px;
+    margin-right: 24px;
+}
+
+.pic-2 {
+    margin-right: 24px;
+}
+
+.pic-3 {
+    margin-right: 24px;
+}
+
+.pic-4 {
+    margin-right: px;
+    border-radius: 10px;
 }
