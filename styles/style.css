@@ -63,7 +63,7 @@ body {
 
 main {
     width: 1800px;
-    height: 4670px;
+    height: 3900px;
     background: #FFF;
 }
 
@@ -321,6 +321,33 @@ main {
     border-radius: 8px;
     background: #E55473;
     border: none;
+}
+
+/* section 6 style */
+.section-6 {
+    background: #8a3749;
+}
+
+.section-6-tittle {
+    color: white;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 150px;
+    margin-left: 550px;
+}
+
+.section-6-des {
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 25px;
+    margin-left: 500px;
+}
+
+.pic-g {
+    width: 900px;
+    height: 400px;
+    margin-left: 300px;
 }
 
 /* footer style */
