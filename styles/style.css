@@ -237,7 +237,7 @@ main {
     font-size: 40px;
     font-weight: 800;
     margin-top: 128px;
-   
+
 }
 
 .section-4-des {
@@ -265,4 +265,60 @@ main {
 .pic-4 {
     margin-right: px;
     border-radius: 10px;
+}
+
+/* section 5 style */
+
+.section-5 {
+    width: 1440px;
+    height: 449px;
+    border-radius: 8px;
+    background: url('../Flower\ Asset/Rectangle 9.png'), no-repeat;
+    margin: 128px 240px;
+
+
+}
+
+.section-5-tittle {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 250px;
+    margin-left: 550px;
+
+
+}
+
+.section-5-des {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 0px;
+    margin-left: 600px;
+}
+
+.email {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 20px;
+    padding-right: 500px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    margin-left: 300px;
+    margin-top: 60px;
+    border: none;
+}
+
+.btn-primary-1 {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 18px 30px;
+    margin-left: 16px;
+
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
 }
