@@ -322,3 +322,39 @@ main {
     background: #E55473;
     border: none;
 }
+
+/* footer style */
+
+.footer {
+    width: 1800px;
+    height: 449px;
+    background: #111010;
+}
+
+.footer-tittle {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    margin-top: 128px;
+    margin-left: 800px;
+}
+
+.footer-des {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 630px;
+    margin-bottom: 25px;
+}
+
+.footer-des-1 {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 130px;
+    margin-left: 770px;
+}
+
+.footer-span {
+    color:#FFFFFF
+}
